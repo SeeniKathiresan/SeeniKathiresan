@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Seenivasagan Kathiresan.
 - 👀 I’m interested in developing applications and collaborating with others on github to further my professional goals.
-- 🌱 I’m currently learning to improve my skill in Java streams, Kafka consumer/producer and Spring boot based microservices.
-- 💞️ I’m looking to collaborate on above mentioned technology and/or on any interesting finance projects.
 - 📫 How to reach me -> k.seenivasagan@gmail.com
