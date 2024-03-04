@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Seenivasagan Kathiresan.
-- 👀 I’m interested in developing applications and collaborating with others on github to further my professional goals.
-- 📫 How to reach me -> k.seenivasagan@gmail.com
+- 👋 Hi, I’m Seeni Kathiresan.
+- 👀 I’m interested in designing & developing applications.
+- 📫 You can reach me at k.seenivasagan@gmail.com
